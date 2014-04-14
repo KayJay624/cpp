@@ -21,5 +21,5 @@ int main()
 
     cout << "Pole kuli I: " << kula1.pole() << "  " << "Pole kuli II: " << kula2.pole() << endl;
 
-    cout << "Pole przekroju kuli I: " << kolo(kula1).pole() << "  " << "Pole przekroju kili II: " << kula2.pole() << endl;
+    cout << "Pole przekroju kulii I: " << kolo(kula1).pole() << "  " << "Pole przekroju kili II: " << kula2.pole() << endl;
 }
