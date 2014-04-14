@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1396707429 source:c:\users\kamil\desktop\programowanie c++\lab[4.3]\main.cpp
+	<iostream>
+	"punkt.h"
+	"kwadrat.h"
+
+1396707457 c:\users\kamil\desktop\programowanie c++\lab[4.3]\punkt.h
+	<iostream>
+	<iomanip>
+
+1396707191 source:c:\users\kamil\desktop\programowanie c++\lab[4.3]\punkt.cpp
+	"punkt.h"
+	<math.h>
+	<iostream>
+	<iomanip>
+
+1396043807 c:\users\kamil\desktop\programowanie c++\lab[4.3]\kwadrat.h
+	"punkt.h"
+
+1396043844 source:c:\users\kamil\desktop\programowanie c++\lab[4.3]\kwadrat.cpp
+	<iostream>
+	"kwadrat.h"
+	"punkt.h"
+

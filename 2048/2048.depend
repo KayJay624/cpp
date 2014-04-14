@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1395920081 source:c:\users\kamil\desktop\programowanie c++\2048\main.cpp
+	<iostream>
+	"plansza.h"
+	<cstdio>
+	<conio.h>
+
+1395870345 c:\users\kamil\desktop\programowanie c++\2048\plansza.h
+
+1395919827 source:c:\users\kamil\desktop\programowanie c++\2048\plansza.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"plansza.h"
+

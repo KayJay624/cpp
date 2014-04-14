@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1397226889 source:c:\users\kamil\desktop\programowanie c++\lab[6.2]\main.cpp
+	<iostream>
+	"tab.h"
+
+1397226889 c:\users\kamil\desktop\programowanie c++\lab[6.2]\tab.h
+	<iostream>
+	<iomanip>
+
+1397226889 source:c:\users\kamil\desktop\programowanie c++\lab[6.2]\tab.cpp
+	"tab.h"
+	<iostream>
+	<iomanip>
+

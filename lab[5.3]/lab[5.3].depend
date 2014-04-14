@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1396646517 source:c:\users\kamil\desktop\programowanie c++\lab[5.3]\node.cpp
+	<iostream>
+	"ln.h"
+
+1396646517 c:\users\kamil\desktop\programowanie c++\lab[5.3]\ln.h
+
+1396647800 source:c:\users\kamil\desktop\programowanie c++\lab[5.3]\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	"ln.h"
+
+1396629116 source:c:\users\kamil\desktop\programowanie c++\lab[5.3]\untitled1.c
+
+1396638474 source:c:\users\kamil\desktop\programowanie c++\lab[5.3]\list.cpp
+	<iostream>
+	<string>
+	"ln.h"
+

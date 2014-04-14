@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1397331612 source:c:\users\kamil\desktop\programowanie c++\lab[7.4]\kolo.cpp
+	<iostream>
+	"kolo.h"
+
+1397331612 c:\users\kamil\desktop\programowanie c++\lab[7.4]\kolo.h
+
+1397331612 source:c:\users\kamil\desktop\programowanie c++\lab[7.4]\kula.cpp
+	<iostream>
+	"kula.h"
+
+1397331612 c:\users\kamil\desktop\programowanie c++\lab[7.4]\kula.h
+	"kolo.h"
+
+1397331536 source:c:\users\kamil\desktop\programowanie c++\lab[7.4]\main.cpp
+	<iostream>
+	"kolo.h"
+	"kula.h"
+

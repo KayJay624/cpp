@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1396185342 source:c:\users\kamil\desktop\programowanie c++\lab[4.4]\zespolona.cpp
+	<iostream>
+	"Zespolona.h"
+
+1396184935 c:\users\kamil\desktop\programowanie c++\lab[4.4]\zespolona.h
+
+1396185458 source:c:\users\kamil\desktop\programowanie c++\lab[4.4]\main.cpp
+	<iostream>
+	"Zespolona.h"
+
